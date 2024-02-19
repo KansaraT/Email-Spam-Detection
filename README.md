@@ -26,3 +26,6 @@ hyperlinks, misleading subject lines, or irregular sender behavior.
  Fine-tune the model using techniques like cross-validation to ensure robustness.
  Address imbalances in the dataset by employing techniques such as oversampling or
 undersampling.
+
+Find the link of the Google Colab notebook here:
+https://colab.research.google.com/drive/1kBrNmD0xNWIfIw-lNgZxeWsMyrDdEyAX?usp=drive_link
